@@ -48,7 +48,7 @@ and continuously improves as new data arrives.
 <li><b>Fast adaptation</b> to changing topics, slang, and trends.</li>
 </ul>
 
-<h2 style="color:#56b6c2;">6️⃣ Expected Outcome</h2>
+<h2 style="color:#56b6c2;">6️⃣  Outcome</h2>
 <p>
 By the end of this notebook, we’ll have a working real-time sentiment classifier that can learn from new tweets without full retraining. 
 This approach can be extended to live Twitter APIs and other streaming data sources.
